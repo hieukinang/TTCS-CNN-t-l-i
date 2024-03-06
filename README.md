@@ -1,1 +1,1 @@
-# TTCS-CNN-t-l-i
+# TTCS-CNN
